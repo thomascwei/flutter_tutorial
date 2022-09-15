@@ -5,6 +5,7 @@ class Home extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
         title: const Text('Text'),
         leading: const Icon(Icons.menu),
         actions: [const Icon(Icons.settings)],

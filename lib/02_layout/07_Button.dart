@@ -6,25 +6,20 @@ class Home extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text('Home Page'),
+        title: Text('Button'),
         leading: Icon(Icons.menu),
         actions: [Icon(Icons.settings)],
       ),
-      body: HelloFlutter(),
+      body: ButtonDemo(),
     );
   }
 }
 
-class HelloFlutter extends StatelessWidget {
+class ButtonDemo extends StatelessWidget {
+  const ButtonDemo({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
-    return Container(
-      child: const Center(
-        child: Text(
-          'Hello Flutter',
-          textDirection: TextDirection.ltr,
-        ),
-      ),
-    );
+    return Container();
   }
 }

@@ -1,16 +1,29 @@
 # flutter_tutorial
 
-A new Flutter project.
+## 01_basic 
+### 01_hello
 
-## Getting Started
+![hello.png](imgs/hello.png)
 
-This project is a starting point for a Flutter application.
+### 02_text
+![](imgs/text.png)
 
-A few resources to get you started if this is your first Flutter project:
+## 02_layout
+### 01_Container
+![](imgs/container.PNG)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 02_Column_Row
+![](imgs/ColumnRow.PNG)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 03_Flex
+![](imgs/Flex.PNG)
+
+### 04_Wrap
+![](imgs/wrap.PNG)
+
+### 05_Stack
+![](imgs/Stack.PNG)
+
+### 06_Card
+![](imgs/Card.PNG)
+
