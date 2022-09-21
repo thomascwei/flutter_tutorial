@@ -175,12 +175,6 @@ class ListViewSepratorDemo extends StatelessWidget {
               },
               separatorBuilder: (context, index) {
                 return index % 2 == 0 ? dividerEven : dividerOdd;
-
-                // if (index % 2 == 0) {
-                //   return dividerOdd;
-                // } else {
-                //   return dividerEven;
-                // }
               },
               itemCount: products.length),
         )

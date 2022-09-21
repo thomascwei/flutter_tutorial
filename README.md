@@ -8,7 +8,7 @@
 
 ### 02_text
 
-![](imgs/text.png)
+![](imgs/text.PNG)
 
 ## 02_layout
 
@@ -53,3 +53,20 @@
 ### 02_ListView
 
 ![](imgs/ListView.png)
+
+### 03_GridView
+
+![](imgs/GridView.png)
+
+
+### 04_GridView
+
+![](imgs/GridViewCount.png)
+
+![](imgs/GridViewExtent.png)
+
+![](imgs/GridViewBuilder.png)
+
+### 05_others
+
+![](imgs/Cupertino.png)
