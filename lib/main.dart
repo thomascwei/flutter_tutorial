@@ -15,7 +15,9 @@ import 'package:flutter/material.dart';
 // import '05_list/03_GridView.dart';
 // import '05_list/04_GridView.dart';
 // import '06_others/01_Cupertino.dart';
-import '07_thirdparty/01_dio.dart';
+// import '07_thirdparty/01_dio.dart';
+// import '07_thirdparty/02_flutter_swiper.dart';
+import '07_thirdparty/03_shared_preference.dart';
 
 void main() {
   runApp(MyApp());

@@ -67,6 +67,14 @@
 
 ![](imgs/GridViewBuilder.png)
 
-### 05_others
+## 06_others
 
 ![](imgs/Cupertino.png)
+
+
+## 07_thirdparty
+
+### 02_swiper
+
+![](imgs/swiper_1.png)
+![](imgs/swiper_2.png)
