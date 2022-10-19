@@ -93,7 +93,7 @@
 
 _drawer菜單是scaffold的一個內容_
 ![](imgs/Drawer.png)  
-_click`關於`_
+_click`關於`_  
 ![](imgs/DrawerAbout.png)
 
 ### 06_BottomNavigatorBar
