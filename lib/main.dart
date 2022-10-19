@@ -26,7 +26,9 @@ import 'package:flutter/material.dart';
 // import '09_navigation/01_anonymous.dart';
 // import '09_navigation/02_NamedRoute.dart';
 // import '09_navigation/03_onGenerateRoute.dart';
-import '09_navigation/04_arguments.dart';
+// import '09_navigation/04_arguments.dart';
+// import '09_navigation/05_drawer.dart';
+import '09_navigation/06_BottomNavigatorBar.dart';
 
 void main() {
   runApp(MyApp());
@@ -37,8 +39,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
-      // home: Home(),
-
+      home: Home(),
+      /*
       // 聲明命名路由
       routes: {
         'home': (context) => Home(),
@@ -49,7 +51,7 @@ class MyApp extends StatelessWidget {
       onUnknownRoute: (RouteSettings setting) => MaterialPageRoute(
         builder: (context) => Unknown(),
       ),
-
+      */
       /*
       onGenerateRoute: (RouteSettings setting) {
         print('當前路徑 ${setting.name}');
