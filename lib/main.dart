@@ -28,7 +28,10 @@ import 'package:flutter/material.dart';
 // import '09_navigation/03_onGenerateRoute.dart';
 // import '09_navigation/04_arguments.dart';
 // import '09_navigation/05_drawer.dart';
-import '09_navigation/06_BottomNavigatorBar.dart';
+// import '09_navigation/06_BottomNavigatorBar.dart';
+// import '09_navigation/07_Tab.dart';
+// import '10_form/01_Switch.dart';
+import '10_form/02_CheckBox.dart';
 
 void main() {
   runApp(MyApp());

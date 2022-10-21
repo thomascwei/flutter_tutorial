@@ -97,4 +97,19 @@ _click`關於`_
 ![](imgs/DrawerAbout.png)
 
 ### 06_BottomNavigatorBar
+
 ![](imgs/BottomNavigatorBar.png)
+
+### 07_Tab
+
+![](imgs/Tab.png)
+
+## 10 form
+
+### 01_switch
+
+![](imgs/Switch.png)
+
+### 02_CheckBox
+
+![](imgs/CheckBox.png)
