@@ -37,7 +37,9 @@ import 'package:flutter/material.dart';
 // import '10_form/05_Calender.dart';
 // import '10_form/06_Form.dart';
 // import '10_form/07_Form.dart';
-import '11_other/01_Animation.dart';
+// import '11_other/01_Animation.dart';
+// import '11_other/02_StaggerAnimation.dart';
+import '11_other/03_Hero.dart';
 
 void main() {
   runApp(MyApp());

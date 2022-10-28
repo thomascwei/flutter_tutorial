@@ -115,28 +115,36 @@ _click`關於`_
 ![](imgs/CheckBox.png)
 
 ### 03_Radio
+
 ![](imgs/Radio.png)
 
 ### 04_TextField
+
 ![](imgs/TextField.png)
 
-
 ### 05_Calender
+
 ![](imgs/Calender1.png)
 ![](imgs/Calender2.png)
 ![](imgs/Calender3.png)
 
-
 ### 06_Form
+
 #### TextFormField
+
 必須建`GlobalKey`  
 比`TextField`多了`validator`屬性
 ![](imgs/Form1.png)
 
 ### 07_Form
+
 ![](imgs/Form2.png)
 
-
 ## 11 Other
+
 ### 01_Animation
+
 ![](imgs/Animation.png)
+
+### 02_StaggerAnimation
+![](imgs/StaggerAnimation.png)
